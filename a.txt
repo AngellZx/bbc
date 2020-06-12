@@ -1,9 +1,5 @@
 超威蓝猫
 好好看
 我不喜欢
-<<<<<<< Updated upstream
 我喜欢看
-=======
 我爱看
-
->>>>>>> Stashed changes
